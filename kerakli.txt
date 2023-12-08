@@ -1,0 +1,10 @@
+vue.js Install
+
+npm create vite@latest
+
+Done. Now run:
+
+  cd folder
+  npm install
+  npm run dev
+
