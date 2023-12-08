@@ -29,7 +29,12 @@ export default {
       type: Object,
       required: true,
     }
-  }
+  },
+  methods: {
+    onLike() {
+      
+    }
+  },
 };
 </script>
 <style scoped>
